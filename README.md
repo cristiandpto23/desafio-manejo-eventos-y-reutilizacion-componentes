@@ -2,7 +2,7 @@
 
 💡 Realizado [cristiandpto23](https://github.com/cristiandpto23) con HTML y JS<br>
 ➡ Front-End G17 - Desafío Latam<br>
-🔗 Desplegado en Vercel [aquí]()<br>
+🔗 Desplegado en Vercel [aquí](https://desafio-manejo-eventos-y-reutilizacion-componentes.vercel.app/)<br>
 
 En este desafío validaremos nuestros conocimientos del manejo de eventos y reutilización de componentes.
 
